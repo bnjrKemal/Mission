@@ -1,0 +1,11 @@
+ranks:
+  novice:
+    lore: "A beginner rank"
+    missions:
+      MOB_KILL: 10
+      BLOCK_BREAK: 50
+  intermediate:
+    lore: "An intermediate rank"
+    missions:
+      PLAYER_KILL: 5
+      ITEM_COLLECT: 20

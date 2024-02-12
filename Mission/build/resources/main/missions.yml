@@ -1,0 +1,9 @@
+mission_types:
+  MOB_KILL:
+    display_name: "Kill Mobs"
+  PLAYER_KILL:
+    display_name: "Kill Players"
+  BLOCK_BREAK:
+    display_name: "Break Blocks"
+  ITEM_COLLECT:
+    display_name: "Collect Items"

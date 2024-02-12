@@ -1,0 +1,7 @@
+name: Mission
+version: '1.0-SNAPSHOT'
+main: com.bnjrKemal.Mission
+api-version: '1.16'
+commands:
+  mission:
+  rank:

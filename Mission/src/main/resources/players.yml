@@ -1,0 +1,11 @@
+players:
+  'player1':
+    current_rank: "novice"
+    current_missions:
+      MOB_KILL: 5
+      BLOCK_BREAK: 25
+  'player2':
+    current_rank: "intermediate"
+    current_missions:
+      PLAYER_KILL: 3
+      ITEM_COLLECT: 15
